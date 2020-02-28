@@ -1,5 +1,7 @@
 # Pdfcrowd HTML to PDF API client
 
+**This package is no longer maintained, use this [https://github.com/pdfcrowd/pdfcrowd-php](https://github.com/pdfcrowd/pdfcrowd-php) instead.**
+
 The Pdfcrowd API lets you easily create PDF from web pages or raw HTML
 code in your PHP applications.
 
